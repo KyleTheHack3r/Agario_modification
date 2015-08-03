@@ -3,9 +3,9 @@
 ## Mod checklist,
 - [ ] Mods:
   - [ ] Better Controls
-     - [ ] E,S,D,F for movment
-     - [ ] Space to eject mass
-     - [ ] Right shift to split
+     - [x] E,S,D,F for movment
+     - [x] Space to split*
+     - [ ] Right shift to eject mass
   - [ ] Instant gameplay 
     - [ ] Respawn automaticly
     - [ ] Options menu
